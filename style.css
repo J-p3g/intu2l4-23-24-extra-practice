@@ -14,11 +14,44 @@
 
 /* Find a way to make the background of each train line a circle. HINT: It involves using the border-radius property.  */
 
+h1{
+  color: white;
+}
 
-
-
-
-
+li{
+  color: white;
+    background-color: black;
+  text-align: center;
+    width: 50px;
+  border-radius: 50px
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.green{
+  background-color: green;
+}
+.orange{
+  background-color: orange;
+}
+.purple{
+  background-color: purple;
+}
+.yellow{
+  background-color: yellow;
+}
+.limegreen{
+  background-color: limegreen;
+}
+.brown {
+  background-color: brown;
+}
+.grey {
+  background-color: grey;
+}
 
 
 
