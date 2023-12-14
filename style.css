@@ -1,0 +1,50 @@
+/* Follow the instructions below to style the MTA train lines. Stuck? Check out line 12 in the ReadMe file to the left. */
+
+/* 1. Select the heading (h1) tag and change the text color to white. */
+
+/* 2. Select the list item (li) tags and do the following:  make color white, make background color black, make width 50px, and make the text align center. */
+
+/* 3. In the HTML file, give the 1, 2, and 3 train a class of "red". */
+
+/* 4. Below, select class of "red" and change the background color to red. */
+
+/* 5. Change the background color of the other train lines by selecting for each of their classes. */
+
+/* SPICY QUESTION */
+
+/* Find a way to make the background of each train line a circle. HINT: It involves using the border-radius property.  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/****** DO NOT CHANGE THE STYLES BELOW THIS ******/
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+li {
+    margin: 0;
+    display: inline-block;
+    font-size: 3em;
+    padding: 0.25em;
+}
